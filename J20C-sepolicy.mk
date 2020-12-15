@@ -10,7 +10,8 @@ BOARD_VENDOR_SEPOLICY_DIRS += \
     device/xiaomi/J20C-sepolicy/leds/vendor \
     device/xiaomi/J20C-sepolicy/nfc/vendor \
     device/xiaomi/J20C-sepolicy/qcom-extra/vendor \
-    device/xiaomi/J20C-sepolicy/thermal/vendor
+    device/xiaomi/J20C-sepolicy/thermal/vendor \
+    device/xiaomi/J20C-sepolicy/usb/vendor
 
 SYSTEM_EXT_PRIVATE_SEPOLICY_DIRS += \
     device/xiaomi/J20C-sepolicy/audio/private \
