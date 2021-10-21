@@ -13,7 +13,7 @@ BOARD_VENDOR_SEPOLICY_DIRS += \
     device/xiaomi/K7-sepolicy/nfc/vendor \
     device/xiaomi/K7-sepolicy/perf/vendor \
     device/xiaomi/K7-sepolicy/qcom-extra/vendor \
-    device/xiaomi/K7-sepolicy/sensors/vendor
+    device/xiaomi/K7-sepolicy/sensors/vendor \
     device/xiaomi/K7-sepolicy/telephony/vendor \
     device/xiaomi/K7-sepolicy/thermal/vendor \
     device/xiaomi/K7-sepolicy/usb/vendor
