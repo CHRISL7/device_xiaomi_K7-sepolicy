@@ -1,3 +1,8 @@
-# device_xiaomi_J20C-sepolicy
+# device_xiaomi_K7-sepolicy
 
-### Common sepolicy for Xiaomi J20 (Surya/Karna - Poco X3 series)
+### Common sepolicy for Xiaomi K7
+
+Currently supported:
+
+- Redmi Note 11 (spes)
+- Redmi Note 11 NFC (spesn)
